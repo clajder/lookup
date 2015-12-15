@@ -20,8 +20,8 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/axet/lookup</url>
-    <connection>scm:git:https://github.com/axet/lookup</connection>
+    <url>https://github.com/clajder/lookup</url>
+    <connection>scm:git:https://github.com/clajder/lookup</connection>
   </scm>
 
   <distributionManagement>
