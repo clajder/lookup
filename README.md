@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/clajder/lookup.svg?branch=master)](https://travis-ci.org/clajder/lookup)
+
 ## Lookup
 
 It is a nice, simple and friendly to use library which helps you to lookup objects on a screen. Also it has a OCR functionality.
